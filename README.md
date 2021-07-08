@@ -14,5 +14,7 @@ chmod a+x /root/ADSynCode/mxG-ADSync/script_sync.py
 ### Usage:
 This script uses the AdSync virtual interpreter to perform the synchronization. To run, change the login credentials in Script and the name of MxHero registered in AdSync.
 
+```sh
 cd /root/ADSynCode/mxG-ADSync/
 ./script_sync.py
+```
